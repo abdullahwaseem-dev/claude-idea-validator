@@ -24,9 +24,9 @@ This is a [Claude Skill](https://www.anthropic.com/news/skills) — a folder Cla
 
 **Claude Code / CLI:**
 ```bash
-git clone https://github.com/<your-username>/idea-validator.git
+git clone https://github.com/abdullahwaseem-dev/claude-idea-validator.git
 mkdir -p ~/.claude/skills
-cp -r idea-validator ~/.claude/skills/
+cp -r claude-idea-validator ~/.claude/skills/idea-validator
 ```
 Restart Claude Code (or start a new session) and the skill is available automatically whenever you describe an idea.
 
