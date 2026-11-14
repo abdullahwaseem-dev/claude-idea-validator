@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Idea Validator: Turn business ideas into structured research reports.">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101A30"/><stop offset="1" stop-color="#252442"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#FFF" stroke-opacity=".035"/></pattern></defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/><rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<circle cx="1100" cy="40" r="250" fill="#93D9F6" opacity=".055"/><circle cx="1170" cy="370" r="240" fill="#93D9F6" opacity=".04"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="44" y="38" width="290" height="32" rx="16" fill="#93D9F6" opacity=".13"/>
+<circle cx="62" cy="54" r="4" fill="#93D9F6"/>
+<text x="76" y="59" font-size="12" font-weight="700" letter-spacing="1" fill="#93D9F6">RESEARCH WORKFLOW</text>
+<text x="44" y="150" font-size="58" font-weight="700" fill="#FFF">Idea Validator</text>
+<text x="46" y="199" font-size="22" fill="#C7D0E2">Turn business ideas into structured research reports.</text>
+<path d="M46 238H785" stroke="#3D465D"/>
+<text x="46" y="276" font-size="17" font-weight="700" fill="#93D9F6">Claude skill · Python · Reports</text>
+<text x="46" y="321" font-size="12" letter-spacing="1" fill="#9BA9C1">MUHAMMAD ABDULLAH WASEEM  /  PROJECT COLLECTION</text>
+</g>
+<g transform="translate(866 83)">
+<rect x="14" y="14" width="245" height="182" rx="18" fill="#93D9F6" opacity=".1"/>
+<rect width="245" height="182" rx="18" fill="#17243A" stroke="#56627F"/>
+<path d="M0 35H245" stroke="#394660"/><circle cx="18" cy="18" r="4" fill="#E4A9A0"/><circle cx="33" cy="18" r="4" fill="#D8C690"/><circle cx="48" cy="18" r="4" fill="#93D9F6"/>
+<rect x="20" y="54" width="62" height="61" rx="12" fill="#93D9F6" opacity=".17"/>
+<path d="M42 74l-10 10 10 10m18-20 10 10-10 10" fill="none" stroke="#93D9F6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M101 63h116m-116 17h90m-90 17h104" stroke="#71809F" stroke-width="6" stroke-linecap="round"/>
+<rect x="20" y="132" width="94" height="28" rx="8" fill="#93D9F6" opacity=".8"/><rect x="125" y="132" width="99" height="28" rx="8" fill="#364660"/>
+</g></svg>
+

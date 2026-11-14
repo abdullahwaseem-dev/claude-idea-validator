@@ -1,3 +1,9 @@
+<p align="center"><img src="docs/readme-banner.svg" width="100%" alt="Idea Validator: Turn business ideas into structured research reports." /></p>
+
+<p align="center"><a href="#project-guide">Project guide</a> · <a href="https://github.com/abdullahwaseem-dev/claude-idea-validator/tree/main">Browse source</a> · <a href="https://github.com/abdullahwaseem-dev">Developer profile</a></p>
+
+<a id="project-guide"></a>
+
 # Idea Validator
 
 **A Claude Skill that turns "I have an idea for..." into a researched, evidence-backed market analysis — with an honest verdict, not a pep talk.**
@@ -94,3 +100,15 @@ Issues and PRs welcome — particularly around the scoring rubric (if you have a
 ## License
 
 [MIT](LICENSE)
+
+
+---
+
+## Author and project links
+
+Built by [Muhammad Abdullah Waseem](https://github.com/abdullahwaseem-dev). [Portfolio](https://abdullah-waseem.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/abdullahwaseem-dev/) · [Project enquiries](mailto:maw112266@gmail.com)
+
+For a bug report, include the affected version, environment, reproduction steps, and expected behaviour in [Issues](https://github.com/abdullahwaseem-dev/claude-idea-validator/issues). If the project is useful to you, a star is appreciated.
+
+**Reuse:** review [LICENSE](LICENSE) and any third-party terms before copying or adapting the project.
+
